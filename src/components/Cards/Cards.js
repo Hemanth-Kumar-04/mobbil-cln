@@ -7,10 +7,11 @@ const Cards = () => {
     <motion.div
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      transition={{ duration: 3 }}
+      transition={{ duration: 2 }}
       className="card"
     >
       <div className="img-in">
+        
         <img
           src="https://w7.pngwing.com/pngs/166/320/png-transparent-rectangle-shape-rectangle-purple-blue-angle.png" // Replace with your image URL
           alt="Card Image"
