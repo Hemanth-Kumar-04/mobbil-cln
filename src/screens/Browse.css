@@ -1,0 +1,13 @@
+.browse{
+    margin: 20px;
+}
+.browse h1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.browse-cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
